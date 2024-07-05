@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  background-color: green;
+}
+
+nav{
+  background-color: black;
+  padding: 15px 25px;
+}
+.logo-title{
+  display:inline-block ;
+  margin: 0;
+  color: white;
+  font-family: Verdana;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+.link{
+  color: white;
+  text-decoration: none;
+  font-family: verdana;
+  margin: 0 15px;
+}
+.image1 {
+  width: 95%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ margin: 30px 25px 25px 25px;
+}
+
+.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+h4{
+  text-align: center;
+}
